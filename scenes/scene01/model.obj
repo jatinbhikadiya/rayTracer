@@ -1,0 +1,44 @@
+# Alias Wavefront OBJ File Exported from SketchUp
+# with OBJexporter (c) 2010-2012 TIG
+# Units = meters
+
+mtllib model.mtl
+
+v -1 1 1
+v 0 1.4 1.4
+v 1 1 1
+v -1.6 0 0
+v 0 0 0
+v 1.6 0 0
+v -1 -1 -1
+v 0 -1.4 -1.4
+v 1 -1 -1
+
+usemtl crimson
+s jazz1 -1 1 1 0.4
+usemtl indigo
+s jazz2 0 1.4 1 0.4
+usemtl springgreen
+s jazz3 1 1 1 0.4
+usemtl orange
+s jazz4 -1.6 0 1 0.4
+usemtl white
+s jazz5 0 0 1 0.4
+usemtl tomato
+s jazz6 1.6 0 1 0.4
+usemtl lime
+s jazz7 -1 -1 1 0.4
+usemtl blue
+s jazz8 0 -1.4 1 0.4
+usemtl raspberry
+s jazz9 1 -1 1 0.4
+
+usemtl my
+#g floor 
+v -3 -3.4 -3
+v 3 -3.4 -3
+v 3 2.6  3
+v -3 2.6 3
+
+#f 12 11 10
+#f 10 13 12
